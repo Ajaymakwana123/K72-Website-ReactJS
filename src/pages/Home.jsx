@@ -7,7 +7,6 @@ import gsap from 'gsap'
 
 const Home = () => {
 
-
   return (
     <div className='text-white'>
       <div className='h-screen w-screen fixed'>
